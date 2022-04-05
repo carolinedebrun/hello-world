@@ -1,0 +1,6 @@
+cd C:/Users/caroline.debrun/Desktop/shell-lesson/hello-world
+
+git add .
+git commit -m "your message"
+git push
+git pull
